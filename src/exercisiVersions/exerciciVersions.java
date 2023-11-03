@@ -26,7 +26,7 @@ public class exerciciVersions {
 
 		  /**
 		   * Constructor amb 3 paràmetres.
-		   * Crea objectes empleat, amb nom, llinatge i sou.
+		   * Crea objectes empleat, amb nom, llina 
 		   * @param nom <i>Nom de l’empleat</i>
 		   * @param llinatge <i>Llinatge de l’empleat</i>
 		   * @param sou <i>Sou de l’empleat</i>
